@@ -1,0 +1,20 @@
+# Common Names of Pets
+
+Bambi		deer
+Daffy		duck
+Daisy		duck
+Dusty		dog
+Farley		dog
+Fluffy		cat
+Garfield	cat
+Grimm		dog
+Hobbes		tiger
+Kermit		frog
+Odie		dog
+Opus		penguin
+Pixel		cat
+Random Numbers	cat
+Snoopy		dog
+Spot		dog
+Sylvester	cat
+Tweety		bird
